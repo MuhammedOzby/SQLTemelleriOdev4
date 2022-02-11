@@ -1,4 +1,4 @@
-# SQL Temeller - Ödev 3
+# SQL Temeller - Ödev 4
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
